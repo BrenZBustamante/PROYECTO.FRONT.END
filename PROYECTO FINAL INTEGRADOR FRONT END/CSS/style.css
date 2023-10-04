@@ -1,0 +1,14 @@
+p {
+    color: rgb(41, 3, 51);
+    width: 300px;
+}
+
+/**
+Esto es un comentario dentro de un documento css
+*/
+h1 {
+    font-weight: bold;
+    color:blue
+
+}
+body{background-color: rgb(167, 164, 164);}
